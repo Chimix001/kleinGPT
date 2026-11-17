@@ -18,4 +18,4 @@ For a more complete and production-oriented implementation, check out nanoGPT an
 
 ## Note
 
-KleinGPT is a learning project, not a production-ready language model. Its goal is simple: make GPT architecture easier to understand, experiment with, and train on modest hardware.
+KleinGPT is an ongoing learning project that will continue to evolve and improve. It isn't designed to be production-ready, but to make GPT architecture easier to understand, experiment with, and train on modest hardware.
